@@ -2,7 +2,7 @@
 
 <code>Developer/ Creator/ ML enthusiasit </code>
 
-I'm an Asian Full-stack developer, with a goal to increase my knowledge on technology. All of my projects are built from a bottom to top approach, from researching, planning to finally the deploying stage. Now my focus is to build my applications using cloud services, with some background knowledge on AWS, GCP and Microsoft Aure.
+I'm an Asian Full-stack developer, with a goal to increase my knowledge on technology. All of my projects are built from a bottom to top approach, from researching, planning to finally the deploying stage. Now my focus is to build my applications using cloud services, with some background knowledge on AWS, GCP and Microsoft Azure.
 
 <p align="center">
   <a href="https://www.youtube.com/@HammaadRizwan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
