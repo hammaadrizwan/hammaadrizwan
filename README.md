@@ -36,15 +36,14 @@ I'm an Asian Full-stack developer, with a goal to increase my knowledge on techn
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="After effects" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+<br />
 
 
-#
+<br />
 
 ### 📊 Stats
 
 ![Hammaads GitHub stats](https://github-readme-stats.vercel.app/api?username=hammaadrizwan&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hammaadrizwan&theme=merko&border_radius=4.5)
-
-#
 
