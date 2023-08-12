@@ -43,8 +43,9 @@ I'm an Asian Full-stack developer, with a goal to increase my knowledge on techn
 <br />
 
 ### 📊 Stats
+<a href="http://www.github.com/hammaadrizwan"><img src="https://github-readme-stats.vercel.app/api?username=hammaadrizwan&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HRS0986's GitHub stats" height="175"/></a> &nbsp;<a href="https://github.com/hammaadrizwan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammaadrizwan&langs_count=5&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" height="175" /></a>
+<p align="center">
+<a href="https://stackoverflow.com/users/story/13543022"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13543022&theme=dark"></a>
+</p>
 
-![Hammaads GitHub stats](https://github-readme-stats.vercel.app/api?username=hammaadrizwan&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hammaadrizwan&theme=merko&border_radius=4.5)
 
